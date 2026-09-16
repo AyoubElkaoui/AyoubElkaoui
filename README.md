@@ -24,10 +24,11 @@ Het meeste van mijn werk is maatwerk voor opdrachtgevers en daarom niet publiek.
 | **Bench provisioning tool** | Desktop-tool voor gestandaardiseerde inrichting van werkplekken | C# WinForms |
 | **Klantwebsites** | Sites en portalen voor installateurs, bouwbedrijven en zorgorganisaties | Next.js, Astro, Sanity/Keystatic |
 
-Publiek te bekijken — twee demo's die de architectuur van dat werk laten zien, herbouwd met fictieve data:
+Publiek te bekijken — drie demo's die de architectuur van dat werk laten zien, herbouwd met fictieve data:
 
 - [**urenregistratie-demo**](https://github.com/AyoubElkaoui/urenregistratie-demo) — uren boeken, verlof, goedkeuringsflow en ERP-sync via outbox-worker · .NET 8, EF Core, PostgreSQL, Next.js 16, Docker, 15 tests
 - [**ticketing-demo**](https://github.com/AyoubElkaoui/ticketing-demo) — helpdesk met SLA-bewaking in kantooruren en tijdregistratie · Next.js 16 server actions, Prisma, PostgreSQL, Docker
+- [**finance-dashboard-demo**](https://github.com/AyoubElkaoui/finance-dashboard-demo) — read-only BI-dashboard op een Firebird ERP-database, drill-down van jaaroverzicht tot factuurregel, debiteurenanalyse · Fastify, node-firebird, Next.js 16, TanStack Query, Docker
 
 Verder: [akws_v3](https://github.com/AyoubElkaoui/akws_v3) (mijn bedrijfssite), [kleding-shop](https://github.com/AyoubElkaoui/kleding-shop) (headless webshop op Medusa) en [BoulesAndBites](https://github.com/AyoubElkaoui/BoulesAndBites) (Angular SSR, schoolproject).
 
